@@ -9,25 +9,25 @@
   <header>
     <nav>
       <ul class="navbar">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#projects">Projects</a></li>
+        <li><a href="#core">Dot Net Core</a></li>
+        <li><a href="#csharp">C# Sharp</a></li>
+        <li><a href="#services">Web Services</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
   </header>
 
-  <section id="home">
+  <section id="core">
     <h1>Welcome to My Website</h1>
     <p>This is a sample GitHub Pages site.</p>
   </section>
 
-  <section id="about">
+  <section id="csharp">
     <h2>About Me</h2>
     <p>Some details about who I am and what I do.</p>
   </section>
 
-  <section id="projects">
+  <section id="services">
     <h2>Projects</h2>
     <p>Links to my GitHub projects.</p>
   </section>
