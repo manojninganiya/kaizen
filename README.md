@@ -23,12 +23,12 @@
   </section>
 
   <section id="csharp">
-    <h2>About Me</h2>
+    <h2>C# Sharp</h2>
     <p>Some details about who I am and what I do.</p>
   </section>
 
   <section id="services">
-    <h2>Projects</h2>
+    <h2>Web Services</h2>
     <p>Links to my GitHub projects.</p>
   </section>
 
