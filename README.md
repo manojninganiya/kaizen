@@ -42,3 +42,11 @@
   </footer>
 </body>
 </html>
+
+https://beetroot.co/team/18-interview-questions-to-ask-a-senior-net-developer/?utm_source=chatgpt.com
+
+https://www.onestopdevshop.io/senior-net-developer-interview-questions/?utm_source=chatgpt.com
+
+https://zerotomastery.io/blog/dot-NET-interview-questions/
+
+https://www.interviewbit.com/dot-net-interview-questions/
