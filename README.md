@@ -785,9 +785,16 @@ Some of my key strengths include quick learning, problem-solving, and being a go
 24. Can we use multiple `catch` blocks within a single `try` block?
 25. What is the use of the `finally` block?
 
----
+26. 
+https://www.questpond.com/sql-server-step-by-step--sql-interview-q-a-tutorial/cid70
+https://www.questpond.com/interview-questions---answers-series-for-c-net-fresher---experienced/cid88
 
-Let me know if you'd like **answers or explanations** for these questions too!
+https://www.toptal.com/sql/interview-questions
+
+https://www.kdnuggets.com/2020/11/5-tricky-sql-queries-solved.html
+
+https://datalemur.com/blog/advanced-sql-interview-questions
+
 
 
 
